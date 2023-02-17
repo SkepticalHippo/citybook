@@ -19,7 +19,7 @@ With the above dependencies in place, run the following in the project root:
 npm install
 ```
 
-### 🛠 Developing
+## 🛠 Developing
 To start the dev server, run the following in the project root:
 
 ```
@@ -30,7 +30,7 @@ This will give you a URL to go to for previewing CityBook.
 
 You can start making changes! Any changes made should be immediately visible on the preview page.
 
-### 🧪 Testing
+## 🧪 Testing
 CityBook uses [Vitest](https://vitest.dev/). You can run the test suite with:
 
 ```
@@ -42,7 +42,7 @@ If you prefer CLI only output:
 npm test
 ```
 
-### 🏗 Building
+## 🏗 Building
 The following command will build the project for production:
 
 ```
