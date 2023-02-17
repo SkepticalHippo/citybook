@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "test": "vitest",
     "test:ui": "vitest --ui",
+    "test:ci": "vitest run",
     "lint": "eslint . --ext .js,.vue"
   },
   "dependencies": {
