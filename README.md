@@ -42,6 +42,8 @@ If you prefer CLI only output:
 npm test
 ```
 
+Pull Requests and commits to `main` will be tested automatically using [GitHub Actions](https://github.com/features/actions).
+
 ## 🏗 Building
 The following command will build the project for production:
 
